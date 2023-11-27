@@ -1,5 +1,6 @@
 # TX_Randomizer_Builds
-This repository holds all versions of TX_Randomizer program.
+This repository contains all versions of TX_Randomizer program.
+It is recommended to use the lastest version because it is the most updated.
 
 # How to download?
 1. Select any version you want by clicking on a .zip file
